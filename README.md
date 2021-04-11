@@ -1,3 +1,6 @@
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SoyeonPark&fontColor=ffffff&fontAlign=70&fontAlignY=40&color=gradient)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paksuua&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
@@ -14,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paksuua&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
