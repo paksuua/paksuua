@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paksuua&show_icons=true&theme=flag-india)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paksuua&theme=flag-india&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paksuua&langs_count=8&theme=flag-india&layout=compact)]()
 
 
