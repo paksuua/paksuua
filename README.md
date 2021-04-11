@@ -1,6 +1,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SoyeonPark&fontColor=ffffff&fontAlign=70&fontAlignY=40&color=gradient)
-<h2 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm still fighting a bug <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+<h2 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm still struggling with bugs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 <br>
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <p align="left"> Mainly used </p>
