@@ -18,6 +18,19 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   
+
+<p align="left"> Tools </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-21262d?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
+ -->
+
+  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paksuua&show_icons=true&theme=flag-india)
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paksuua&langs_count=8&theme=flag-india&layout=compact)]()
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paksuua&theme=flag-india&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
