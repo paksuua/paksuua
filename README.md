@@ -1,7 +1,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SoyeonPark&fontColor=ffffff&fontAlign=70&fontAlignY=40&color=gradient)
 <h2 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm still struggling with bugs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
-<h3 align="left">👩‍💻 Working With 👨‍👩‍👧‍👦 </h3>
+<h3 align="left">👨‍👩‍👧‍👦 Working With 👩‍💻 </h3>
 <h4 align="left"> <img width="30px" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/114301612-9b230180-9b00-11eb-889e-dd7981d2a5ae.png"> Team Wooly💜 </h4>
 <h4 align="left">Team ZuzuClub 🐆</h4>
 <br>
