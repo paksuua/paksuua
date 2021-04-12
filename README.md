@@ -8,15 +8,15 @@
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <p align="left"> Mainly used </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=round-square&logo=Kotlin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
   
 <p align="left"> Techs that I've used at least once </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paksuua&show_icons=true&theme=flag-india)
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paksuua&langs_count=8&theme=flag-india&layout=compact)]()
