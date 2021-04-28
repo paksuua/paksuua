@@ -4,6 +4,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaksuua&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <h2 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm still struggling with bugs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaksuua&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
 <h3 align="left">👨‍👩‍👧‍👦 Working With 👩‍💻 </h3>
 <h4 align="left"> <img width="30px" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/114301612-9b230180-9b00-11eb-889e-dd7981d2a5ae.png"> Team Wooly💜 </h4>
 <h4 align="left"> <img width="30px" alt="zuzuclub_logo" src="https://user-images.githubusercontent.com/43838030/114815363-01ee3680-9df1-11eb-8154-df01dca81679.png"> Team ZuzuClub 🐆</h4>
