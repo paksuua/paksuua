@@ -1,4 +1,6 @@
-## 나의 아침을 깨우는 Wooly
+<h2 align="center">
+💜 나의 아침을 깨우는 Wooly 💜
+</h2> 
 
 <div align="center" style="display:flex;">
 	<img width="300" height="300" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/114301612-9b230180-9b00-11eb-889e-dd7981d2a5ae.png">
