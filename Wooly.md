@@ -64,7 +64,7 @@
 
 ### 🔀 3. Commit Convention
 ## 😜[Gitmoji](https://gitmoji.dev/)
-<div align="center"><img width="400" height="400" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/116831425-49930180-abea-11eb-89af-e0780b88e0d1.JPG"></div>
+<div align="left"><img width="400" height="400" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/116831425-49930180-abea-11eb-89af-e0780b88e0d1.JPG"></div>
 
 <!--
 ### 📚 2. Activity 구조
