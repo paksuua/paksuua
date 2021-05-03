@@ -40,7 +40,6 @@
   
 ### ✉ Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:paksuua@gmail.com)](mailto:paksuua@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:paksuua@gmail.com)](mailto:paksuua@gmail.com)
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paksuua&show_icons=true&theme=flag-india&hide_border=true)
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paksuua&langs_count=8&theme=flag-india&layout=compact&hide_border=true)]()
