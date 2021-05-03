@@ -11,7 +11,9 @@
 <h3>👨‍👩‍👧‍👦 Working With 👩‍💻 </h3>
 <h4> <img width="30px" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/114301612-9b230180-9b00-11eb-889e-dd7981d2a5ae.png"> Team Wooly💜 </h4>
 <h4> <img width="30px" alt="zuzuclub_logo" src="https://user-images.githubusercontent.com/43838030/114815363-01ee3680-9df1-11eb-8154-df01dca81679.png"> Team ZuzuClub 🐆</h4>
-<br>
+
+---
+
 <h3>🛠 Tech Stack 🛠</h3>
 <p> Mainly used </p>
 <p>
@@ -37,6 +39,8 @@
 <!--   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-21262d?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
  -->
+
+---
   
 ### ✉ Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:paksuua@gmail.com)](mailto:paksuua@gmail.com)
