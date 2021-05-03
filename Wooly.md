@@ -31,17 +31,19 @@
 | 신승민 | Core 알람,  소셜 로그인 연동(kakao, facebook), 회원가입 |
 | 박소연 | 다짐 목록, 다짐 히스토리, 자체 로그인, 개인정보 수정 |
 
-### 🔀1. Commit Convention
+---
+&nbsp;
+### 🔀 1. Commit Convention
 ## 😜[Gitmoji](https://gitmoji.dev/)
 <div align="center"><img width="400" height="400" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/116831425-49930180-abea-11eb-89af-e0780b88e0d1.JPG"></div>
 <!--| 이름                                                  | 담당                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
 | 신승민 | Core 알람,  소셜 로그인 연동(kakao, facebook), 회원가입 |
 | 박소연 | 다짐 목록, 다짐 히스토리, 자체 로그인, 개인정보 수정 |-->
-
-### 🛠 Skills
+&nbsp;
+### 🛠 2. Skills
 AAC(MVVM, LiveData), Hilt, Dagger2, Room, DataStore, Coroutine, ViewBinding, Retrofit2, DeepLink
-
+&nbsp;
 ### 📚 3.프로젝트 사용 라이브러리
 
 | 라이브러리                                                   | 목적                                                    |
