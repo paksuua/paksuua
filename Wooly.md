@@ -34,9 +34,7 @@
 ------
 &nbsp;
 
-### 🔀 1. Commit Convention
-## 😜[Gitmoji](https://gitmoji.dev/)
-<div align="center"><img width="400" height="400" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/116831425-49930180-abea-11eb-89af-e0780b88e0d1.JPG"></div>
+
 <!--| 이름                                                  | 담당                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
 | 신승민 | Core 알람,  소셜 로그인 연동(kakao, facebook), 회원가입 |
@@ -44,12 +42,12 @@
 
 
 
-### 🛠 2. Skills
-AAC(MVVM, LiveData), Hilt, Dagger2, Room, DataStore, Coroutine, ViewBinding, Retrofit2, DeepLink
+### 🛠 1. Skills
+**AAC(MVVM, LiveData), Hilt, Dagger2, Room, DataStore, Coroutine, ViewBinding, Retrofit2, DeepLink**
 
 
 
-### 📚 3.프로젝트 사용 라이브러리
+### 📚 2.프로젝트 사용 라이브러리
 
 | 라이브러리                                                   | 목적                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
@@ -61,6 +59,10 @@ AAC(MVVM, LiveData), Hilt, Dagger2, Room, DataStore, Coroutine, ViewBinding, Ret
 | [Gson](https://github.com/google/gson) | JSON 객체 Converter |
 | [Glide](https://github.com/bumptech/glide) | 이미지 포멧팅 |
 | [Retrofit](https://square.github.io/retrofit/) | HTTP 통신 |
+
+### 🔀 3. Commit Convention
+## 😜[Gitmoji](https://gitmoji.dev/)
+<div align="center"><img width="400" height="400" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/116831425-49930180-abea-11eb-89af-e0780b88e0d1.JPG"></div>
 
 <!--
 ### 📚 2. Activity 구조
