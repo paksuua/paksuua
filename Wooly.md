@@ -18,9 +18,9 @@
   3. **다짐 히스토리**: 각 음식에 대한 참여자 N명의 감정 수치 값을 반영하여 랭킹을 도출합니다. 
 
 ------
-<!--
+
 ### 📄 Service Work Flow
-![우리뭐먹지_워크플로우](https://user-images.githubusercontent.com/43838030/116829539-375f9600-abdf-11eb-8076-ea21cc4e6c64.JPG) -->
+![울리 워크플로우](https://user-images.githubusercontent.com/43838030/116832295-71d12f00-abef-11eb-8188-43c94fdac2ac.JPG)
 
 # Wooly_Android :loudspeaker:
 
