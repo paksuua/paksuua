@@ -28,7 +28,7 @@
 
 # Blahblah_Android :loudspeaker:
 
-### 🏻👨‍👧 개발 담당
+### 👩🏻‍🤝‍👩🏻 개발 담당
 
 | 이름                                                  | 담당                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
@@ -48,9 +48,8 @@
 
 ### 🛠 1. Skills
 **Java, Media Player, File I/O, SQLite, MPChart , RecyclerView , STT, Google Dialogflow**
-
-### 📚 2.프로젝트 사용 라이브러리
 <!--
+### 📚 2.프로젝트 사용 라이브러리
 | 라이브러리                                                   | 목적                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
 | [Coroutine](https://developer.android.com/topic/libraries/architecture/coroutines) | 비동기 처리 및 통신 |
@@ -65,17 +64,16 @@
 ## 😜[Gitmoji](https://gitmoji.dev/)
 <div align="left"><img width="400" height="400" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/116831425-49930180-abea-11eb-89af-e0780b88e0d1.JPG"></div>
 -->
-<!--
+
 ### 📚 2. Activity 구조
 |                  Activity   |                 Description   |
 | ----------------------------------- | ------------------------------------------- |
-| MainActivity  |  앱의 메인 화면    |
-| MakeUrlActivity  | 그룹의 입장 코드 생성 |
-| JoinActivity  |  입장코드를 입력하여 그룹에 참여  |
-| PreferenceCheckActivity  | 사용자의 메뉴 선호도 조사를 진행(호불호 메뉴 1개씩 입력)   |
-| WaitingActivity  | 그룹 참여 인원의 진행 싱크를 맞추기 위한 대기페이지  |
-| EmotionAnalysisActivity  |  입력된 메뉴 기반으로 CBF알고리즘을 통해 추천된 10개의 메뉴에 대한 감정 분석을 진행 |
-| RankingActivity  |  그룹의 사용자가 좋아할만한 10개 메뉴의 랭킹 도출 |
-| MapActivity  | 현재 위치 기반으로 해당 메뉴를 판매하는 주변 음식점 위치 정보를 보여줌 |
-| ChartActivity  | 사용자들의 호불호 분석 결과를  |
--->
+| LoginActivity  |  로그인  |
+| SignupActivity  |  회원가입  |
+| VideoActivity  | 영상의 문장에 대답하고 STT로 대답을 확인하는 영상학습 진행 |
+| ShadowingActivity  | 영상 속 문장을 따라 말하는 Shadowing 학습 진행, 학습 결과가 자동 녹음됨 |
+| ChatbotActivity  | 사전 학습시킨 Google Dialogflow 를 이용한 챗봇 구현 |
+| ReviewActivity  |  학습 영상에 포함된 주요 문장 스피킹 학습 |
+| ReviewWordActivity  |  학습한 영상에 포함된 주요 단어 학습 |
+| VideoLearnActivity  | 영상 학습시 저장된 녹음 및 STT 텍스트로 복습 |
+
