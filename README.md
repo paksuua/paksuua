@@ -55,6 +55,10 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--
+#### Solved.ac 프로필
+[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=paksuua)](https://solved.ac/profile/paksuua)
+
+
 **paksuua/paksuua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
