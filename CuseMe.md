@@ -6,6 +6,7 @@
 <br>발달장애인을 위한 카드형 의사소통도구, 큐즈미
 </div>
 
+[큐즈미 플레이스토어 다운](https://play.google.com/store/apps/details?id=com.cuseme.android.aac)
 ---
 발달장애인들에게 세상은 넓고 깊은 바다와 같습니다.<br> 
 말이 통하지 않는 사람들로 가득한 세상은 그들에겐 함부로 나아가기 어렵고, 무서운 곳이니까요.<br> 
