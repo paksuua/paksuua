@@ -13,7 +13,8 @@
 <h4> <img width="30px" alt="wooly_logo" src="https://user-images.githubusercontent.com/43838030/114301612-9b230180-9b00-11eb-889e-dd7981d2a5ae.png"> Team Wooly💜 </h4>
 <h4> <img width="30px" alt="zuzuclub_logo" src="https://user-images.githubusercontent.com/43838030/114815363-01ee3680-9df1-11eb-8154-df01dca81679.png"> Team ZuzuClub 🐆</h4>
 <h4> <img width="30px" alt="flame_logo" src="https://user-images.githubusercontent.com/43838030/150627434-53fc1bab-5a33-4e3a-87f8-b9fa0ea4066e.png"> Team Flame 🔥</h4>
----
+
+  ---
 
 <h3>🛠 Tech Stack 🛠</h3>
 <p> Mainly used </p>
