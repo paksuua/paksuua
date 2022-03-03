@@ -3,13 +3,16 @@
 	<img src="https://user-images.githubusercontent.com/43838030/153394342-37221ea4-b3cf-4dc4-81b6-4d0b9ed9e46b.png" width="200">
 </div>
 
-
 <div align="center">
 
 ### SGS DevCamp2 flame팀의 메신저 clone project입니다🔥
 앱 서비스의 기본적인 회원 인증, 연락처 동기화를 통한 친구 추가, 채팅 프로필 커스텀, 검색 기능과 채팅 기능을 제공합니다.
 <br/>채팅은 STOMP WebSocket 기반의 실시간 통신으로 이루어지며, FCM을 통해 메세지에 대한 푸시 알림 기능이 있습니다.
 </div>
+
+<br/>
+
+## [문제 해결 과정 바로 가기](https://github.com/paksuua/paksuua/blob/main/FlameTalk_WhatILearn.md) 🏃‍♀️
 
 <br/>
 
