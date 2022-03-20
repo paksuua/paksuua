@@ -1,4 +1,5 @@
 # FlameTalk을 개발하며 겪은 문제 해결 과정의 기록입니다 👩‍💻
+## [프로젝트 소스코드로 바로가기🏃‍♀️](https://github.com/DevCamp2Flame/FlameTalk_Android)
 
 저는 FlameTalk에서 아래와 같은 기능의 개발을 담당했습니다
 - 로그인 회원가입 및 유저 인증 기능 개발
